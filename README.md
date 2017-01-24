@@ -9,9 +9,10 @@ Used on the [Digispark](http://digistump.com/wiki/digispark)
 * leaving two pins spare for inputs
 All done as software PWM using rgb LED as an initial guide.
 
-Usage:
+#Usage:
 Controls up to 4 channels of Tech22 Neon supplies.
 In the loop function - place on/off/fadeto/setfade commands.
+
 Use:
 * on(channel). 
    * E.g. on(0) turns on channel 0.
