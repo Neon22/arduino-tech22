@@ -1,4 +1,4 @@
 DigisparkTech22Begin	KEYWORD2
 DigisparkTech22	KEYWORD2
-DigisparkTech22Read KEYWORD2
+DigisparkTech22Read	KEYWORD2
 DigisparkTech22Delay	KEYWORD2
